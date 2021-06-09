@@ -32,7 +32,7 @@ class TopBar extends StatelessWidget {
                 ),
               ),
               Text(
-                'Developer',
+                'Student',
                 style: TextStyle(
                   fontSize: 16,
                   color: Colors.pinkAccent,
