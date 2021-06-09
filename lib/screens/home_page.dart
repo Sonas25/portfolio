@@ -14,7 +14,7 @@ class HomepageScreen extends StatelessWidget {
               TopBar(),
               const SizedBox(height: 10,),
               Text(
-                'Photographer',
+                'f',
                 style: TextStyle(
                   fontSize: 22,
                   color: Colors.pink,
